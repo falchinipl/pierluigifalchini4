@@ -1,0 +1,593 @@
+
+@media screen and (min-width: 1280px) {
+.container-fluid{
+  width:1230px!important;
+
+
+
+}
+.wide{width:100% !important;}
+}
+
+@media screen and (max-width: 1230px) {
+#restringi2{
+	margin-left:30px !important;
+
+}
+#ul_due{
+  padding-bottom:0 !important;
+
+}
+.padding{
+  margin:0 !important;
+}
+#restringi2{
+	float:left;
+	width:450px;
+	margin-left:30px;
+}
+#footer .container-fluid{
+	width:80% !important;
+}
+.slides{
+    margin-left:0!important;
+  }
+#slider {width:991px;  
+  }
+ #slider .slide {float:left; 
+  list-style-type:none; 
+  width:290.33px;   
+  margin-left:30px;}
+#button1,#button2{
+  display:none;
+}
+.button-holder
+{
+    display:block;
+    margin-top:40px;
+}
+.gallery_img{
+	width:320px !important;
+}
+
+.gallery{
+	width:1080px !important;
+
+	
+
+}
+.swiper-pagination{
+
+display: block!important;
+padding-top:40px !important;
+}
+
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1080px) {
+
+	#slider {width:670.6px;  
+
+  }
+
+
+
+ #slider .slide {
+  width:290.33px;   
+  margin-left:30px;}
+
+
+	.gallery_img{
+		width:320px !important;
+	}
+
+	.gallery{
+		width:682px !important;
+	}
+
+
+	.gallery_img{
+		width:370px !important;
+	}
+
+	.gallery{
+		width:830px !important;
+	}
+
+	.logo{
+		width:100%;
+		font-size:22px;
+		transition: font .3s;
+		text-align: center;
+	}
+	.fisso{
+	
+	float:none;
+width:860px;
+margin:0 auto !important;
+
+}
+
+#navbar{
+	height:110px;
+}
+
+#menu1{
+	
+	margin-left:150px;
+
+}
+
+
+#menu2{
+	margin-left:480px;
+}
+#menu3{
+	margin-left:670px;
+}
+#separa1{
+
+	width:800px;
+	
+
+	margin-left:-450px;
+	
+
+
+}
+
+
+#slideshow_icons{
+
+
+	float:none;
+
+	margin:  auto;
+	height:100px;
+}
+
+
+
+#separa1{
+
+	
+
+margin-top:90px !important;
+margin-left:0px;
+
+
+
+}
+
+#separa2{
+
+
+}
+
+
+
+.col-md-3{
+	margin:0 auto;
+}
+
+
+.progress{
+
+width:400px;
+
+height:10px !important;
+
+
+}
+.center{
+  width:400px !important;
+}
+
+#footer .container-fluid{
+	width:70% !important;
+}
+
+#navbar{
+	height:60px;
+}
+
+.fisso{
+display:none;
+}
+
+
+.hamburger{
+	display: block;
+}
+
+.mobile{
+	display: block;
+}
+
+.menu{
+	display:none;
+}
+
+
+}
+
+
+
+@media screen and (max-width: 1023px) {
+
+
+
+.alza{
+	margin-top:-60px !important;
+}
+
+
+}
+
+
+
+@media screen and (max-width: 991px) {
+
+.middle_span{
+  display:none !important;
+}
+
+#menu1{
+	
+	margin-left:100px;
+
+}
+
+
+#menu2{
+	margin-left:470px;
+}
+#menu3{
+	margin-left:530px;
+}
+
+
+.alza{
+	margin-top:-8px !important;
+}
+
+#restringi1,#restringi2,#restringi3,#restringi4{
+	float:none !important;
+	width:500px !important;
+	margin:0 auto !important;
+}
+.center{
+  width:500px !important;
+}
+.immagine1{
+	margin:auto;
+	margin-top:10px !important;
+	margin-bottom:10px !important;
+	display:block;
+}
+#tre p{
+width:100%;
+text-align:center;
+}
+#restringi3{
+
+
+	height:100%;
+}
+
+.progress{
+width:100% !important;
+}
+
+#restringi4{
+	
+	margin:0 auto!important;
+	padding-left:0 !important;
+}
+ h1{
+	text-align:center;
+  margin-left:0 !important;
+  width:100%;
+}
+
+.responsive{
+	width:100%;
+}
+
+#kilometers,#goods{
+
+float:none;
+margin:0  auto!important;
+margin-top:50px !important;
+
+}
+
+.col-md-4{
+    margin:0 auto !important;
+}
+
+ .center_align{
+	text-align:center ;
+
+
+}
+.left_align{
+  text-align:left;
+  width:430px;
+}
+
+#footer p{
+	margin: 0 auto !important;
+
+}
+.footer_ul{
+	margin: auto !important;
+
+	
+}
+
+.footer_ul{
+	width:300px;
+	text-align:left;
+}
+
+.inner_footer li{
+	width:100% !important;
+
+	
+}
+#slider {width:830px;  
+  }
+
+
+.button-holder
+        {
+        width:140px ;   
+       
+        }
+
+ #slider .slide {
+  width:370px;   
+  margin-left:30px;
+
+
+
+}
+
+   
+      #riappariuno{
+        display:inline-block ;
+      }
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 682px) {
+  
+
+
+	.gallery_img{
+		width:370px !important;
+		margin:auto !important;
+		display:block;
+	}
+
+.gallery{
+		width:100% !important;
+	}
+
+
+      #riapparidue{
+        display:inline-block ;
+      }
+
+      h1{
+      	font-size:30px !important;
+      	width:100%;
+      	text-align: center;
+      	margin:0 !important;
+      	padding-bottom:20px;
+      }
+      .swiper-container {
+        width: 85% !important;
+        height: 100%;
+    }
+
+}
+
+
+
+
+
+
+@media screen and (max-width: 622px) {
+	
+.logo{
+	width:220px;
+
+	margin-left:60px;
+	text-align:left;
+
+}
+
+#slideshow,#sovrapponi { 
+ 
+    height: 300px; 
+}
+.svg{
+	background-image:url(../images/scrittapiccola.png);
+	width:100%;
+	height:100px;
+	
+}
+#slideshow_icons{
+	display: none;
+}
+
+
+
+
+
+	
+}
+
+
+
+@media screen and (max-width: 522px) {
+	#restringi1,#restringi2,#restringi3,#restringi4{
+	width:100%!important;
+	text-align:center;
+	
+}
+
+.center{
+  width:320px !important;
+}
+
+.container-fluid{
+	text-align: center;
+}
+.logo{
+	width:220px;
+	font-size:18px;
+	margin-left:60px;
+}
+	.furgone{
+		display:none;
+	}
+
+	#slideshow,#sovrapponi { 
+ 
+    height: 200px; 
+}
+
+	.svg{
+	display:none;
+	
+}
+
+
+
+#due ul li{
+	width:85%;
+}
+
+#uno img{
+
+margin-top:10px !important;
+
+
+}
+
+.immagine{
+	display:block;
+	width:100%;
+}
+
+#ul_uno{
+	text-align: left;
+}
+
+#progress1,#progress2,#progress3,#progress4{
+	width:320px !important;
+	margin:0 auto !important;
+	
+
+
+}
+
+#center{
+
+  margin:0 auto !important;
+}
+
+
+#restringi4 h1{
+	font-size:35px !important;
+	padding-bottom:30px !important;
+
+}
+.footer_ul{
+	width:100% !important;
+	
+}
+
+#footer li{
+	width:100% !important;
+	
+}
+
+
+
+#footer .container-fluid{
+	width:100% !important;
+}
+
+.left_align{
+  text-align: center !important; 
+}
+
+}
+
+
+@media screen and (max-width: 430px) {
+
+ #slider .slide {float:left; 
+ 	list-style-type:none; 
+
+  height:400px;  
+  margin-left:30px;
+}
+
+.left_align{
+  text-align:left;
+  width:100%;
+}
+
+.button-holder{
+  margin-top:110px !important;
+
+}
+
+
+
+}
+
+@media screen and (max-width: 370px) {
+#center{
+  width:92% !important;
+
+}
+
+#progress1,#progress2,#progress3,#progress4{
+  width:100% !important;
+}
+
+
+#slider{
+  width:100% !important;
+}
+
+	.gallery_img{
+		width:320px !important;
+	}
+
+
+}
+
+
+
+
